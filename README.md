@@ -312,10 +312,11 @@ Code and results screenshot:
 •	Solution File 
 The dataset/solution file for this assignment can be found here. 
 Multiple_year_stock_data.xlsm
-Readme:
+Code and results screenshots: https://github.com/pandarik/VBA-challenge/blob/main/ReadmeModule2ScreenshotsCode.docx
+
 
 References/ Acknowledgements: 
-Leveraged ChatGPT, Copoilet as/where needed to develop/validate/troubleshoot code/data/functions.
+Leveraged Google, ChatGPT, Copoilet as/where needed to develop/validate/troubleshoot code/data/functions.
 
 Solution, Recommendations, and Conclusion:
 In this VBA assignment, I leveraged VBA scripting to analyze generated stock market data. The objective was to create a script that could loop through all stocks for one year, calculating and outputting various key metrics such as yearly change, percentage change, and total stock volume. Additionally, the VBA script is designed to identify the stocks with the greatest increase, greatest decrease, and greatest total volume.
